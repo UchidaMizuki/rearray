@@ -18,6 +18,3 @@ Imports:
     stringr,
     utf8,
     vctrs
-LinkingTo: 
-    cpp11
-SystemRequirements: C++11
